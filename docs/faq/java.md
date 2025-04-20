@@ -27,7 +27,7 @@ description: Инструкция по установке Java
 ## Linux
 Обратитесь к документации вашего дистрибутива.  
 Ниже перечислены команды для установки Java на самых популярных дистрибутивах:
-* Ubuntu, Mint, Debian и подобные: `apt install openjdk-17-jre`
+* Ubuntu, Mint, Debian, termux и подобные: `apt install openjdk-17`
 * CentOS, Fedora и подобные: `yum install java-17-openjdk`
 * Arch Linux, Manjaro и подобные: `pacman -S jre-openjdk`
 
